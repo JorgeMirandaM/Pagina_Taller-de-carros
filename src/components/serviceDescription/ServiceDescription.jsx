@@ -1,5 +1,5 @@
 import React from 'react'
-import './ServiceDescription.css';
+import './serviceDescription.css';
 
 
 const ServiceDescription = ({titulo,descripcion,imagen}) => {
