@@ -2,8 +2,6 @@ import React from 'react'
 import { sections } from './sections.js'
 import icono from '../../assets/icons/icon.png';
 import './navBar.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 const NavBar = () => {
   return (

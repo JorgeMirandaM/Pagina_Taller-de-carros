@@ -110,8 +110,21 @@
     align-items: center;
 }
 
-.footer-social-media svg {
+.footer-social-media a {
+    width: 60px;
+    height: 60px;
+    color: #000;
+    text-decoration: none;
+    border-radius: 100px;
+    transition: all .3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-social-media a svg{
     height: 50px;
+    width: 50px;
 }
 
 .footer-second-section {

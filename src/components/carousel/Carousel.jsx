@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import './carousel.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 const Carousel = ({ screens }) => {
 
   const [indice, setIndice] = useState(0);
