@@ -1,0 +1,23 @@
+.carousel{
+    background-color: #B6C4B6;
+}
+
+.carousel p{
+    line-height: 26px;
+    text-align: justify;
+    
+}
+
+
+.carousel img{
+    width: 75px;
+    border-radius: 99px;
+}
+
+.carousel-author-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+

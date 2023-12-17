@@ -1,0 +1,25 @@
+.navbar{
+    box-shadow: 0 2px 2px 1px rgba(206, 206, 206, 0.2);
+    background-color: #EEF0E5;
+}
+
+.navbar ul{
+    list-style: none;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #464646; 
+    transition: 300ms;
+}
+
+.navbar ul li a:hover{
+    color: #0766AD;
+}
+
+
+
+
